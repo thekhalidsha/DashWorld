@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Momo+Signature&display=swap");
+:root {
+  --bs-font-sans-serif: "Momo Signature", cursive !important;
+}
+html, body, * {
+  font-family: "Momo Signature", cursive !important;
+}

@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+
+:root {
+  --bs-body-font-family: "Noto Sans", cursive !important;
+}
+
+:root {
+  --bs-font-sans-serif: "Noto Sans", sans-serif; 
+  --bs-body-font-family: var(--bs-font-sans-serif); 
+  --bs-font-monospace: "Noto Sans", monospace;
+}
